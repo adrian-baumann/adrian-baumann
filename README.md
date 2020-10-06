@@ -6,3 +6,5 @@ Maybe you want to have a look at these:
 - [A explorative analysis I have done with Mein Grundeinkommen e.V.](https://nbviewer.jupyter.org/github/adrian-baumann/basic-income-explorative-analysis/blob/master/analysis.ipynb?flush_cache=false)
 - [A visualization of pi inspired by Nadieh Bremer](https://github.com/adrian-baumann/visualizing_pi)
 
+Want to know more about me or get in contact? <br>
+--> You can reach me on [LinkedIn](https://www.linkedin.com/in/adrianbaumann/)
